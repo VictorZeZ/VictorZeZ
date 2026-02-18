@@ -1,3 +1,9 @@
+<br />
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2pkYnpkMmk0eTNxMmx6aWJpZDRmYjA0bWp5d3RlMzF6Mnh2MDY5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13rQ7rrTrvZXlm/giphy.gif" width="400"/>
+</p>
+
 <h1 align="center">Hi, I'm Meraj 👋</h1>
 
 <p align="center">

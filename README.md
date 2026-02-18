@@ -1,26 +1,122 @@
-<h1>Hi 👋, I'm Meraj Esmaeili</h1>
-<p>I am a passionate Full-Stack Developer with expertise in both front-end and back-end technologies. I thrive in dynamic environments, building scalable and user-friendly applications. I am quick to learn new programming languages and technologies, and I stay up-to-date with industry trends to ensure my skills remain relevant and innovative.</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/KawasakiZeZ" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://dev.to/meraj_esmaeili" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
-<a target="_blank" href="https://www.instagram.com/meraj_492" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
-<a target="_blank" href="https://stackoverflow.com/users/user:18487646" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
+<h1 align="center">Hi, I'm Meraj 👋</h1>
+
+<p align="center">
+Full-Stack Engineer | Web Architect | UI-Focused Builder  
+</p>
+
+<p align="center">
+I design and build scalable web applications with strong architectural foundations,  
+clean code principles, and performance in mind.
+</p>
+
+---
+
+## 🚀 About Me
+
+- 💻 Full-Stack Engineer (Frontend + Backend)
+- 🎯 Focused on scalable systems & clean architecture
+- 🎨 Passionate about modern web design & UX
+- 🔐 Deeply interested in security & authentication systems
+- 🌍 Portfolio: https://code101.ir
+- 💬 Telegram: https://t.me/Meraj499
+
+I care about structure, maintainability, and long-term software health —  
+not just “making it work”.
+
+---
+
+## 🧠 Tech Stack
+
+### 🖥 Frontend
+React • Next.js • TypeScript • JavaScript  
+Tailwind • Material UI • shadcn/ui • Bootstrap  
+Redux Toolkit • State Management Patterns  
+Framer Motion • Chart.js • i18n  
+Electron • Angular • jQuery  
+
+### ⚙ Backend
+ASP.NET Core • RESTful APIs • EF Core  
+SQL Server • PostgreSQL • MongoDB  
+WebSocket • WebRTC  
+ASP.NET Core Identity • JwtBearer • BCrypt  
+ImageSharp  
+
+### 🧩 Architecture & Concepts
+Clean Architecture • Microservices  
+SOLID Principles • Repository Pattern  
+CQRS • DDD  
+Authentication & Authorization Flows  
+Caching Strategies • CI/CD Basics  
+Web Security (XSS, CSRF, CORS)
+
+### 🛠 Tools
+Docker • Git • GitHub  
+Cloudflare Workers • Render  
+Postman • Swagger  
+Vim • ClickUp • Adobe Photoshop  
+GraphQL
+
+### 💬 Languages
+C# • Rust • C++ • TypeScript • JavaScript
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=VictorZeZ&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VictorZeZ&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VictorZeZ/VictorZeZ/main/dist/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🧭 What I Build
+
+- Scalable SaaS platforms
+- Real-time systems (WebSocket / WebRTC)
+- Authentication & secure backend infrastructures
+- Clean Architecture enterprise backends
+- Modern interactive frontends
+
+---
+
+## 🤝 Open To
+
+- Remote Full-Stack roles
+- Backend-focused engineering positions
+- Architecture design collaboration
+- Open-source contributions
+- Technical partnerships
+
+---
+
+## 📌 Current Focus
+
+- Improving system design depth
+- Security fundamentals & attack surface analysis
+- Rust ecosystem exploration
+- High-performance backend patterns
+
+---
+
+## 🧠 Quote
+
+> "Those who can imagine anything, can create the impossible."  
+> — Alan Turing
+
+---
+
+<p align="center">
+Built with structure. Driven by curiosity. Optimized for clarity.
+</p>

@@ -63,7 +63,7 @@ Vim • ClickUp • Adobe Photoshop
 GraphQL
 
 ### 💬 Languages
-C# • Rust • C++ • TypeScript • JavaScript
+C# • C++ • TypeScript • JavaScript
 
 ---
 

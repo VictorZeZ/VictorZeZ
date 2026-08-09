@@ -26,8 +26,7 @@ clean code principles, and performance in mind.
 - 🌍 Portfolio: https://code101.ir
 - 💬 Telegram: https://t.me/Meraj499
 
-I care about structure, maintainability, and long-term software health —  
-not just “making it work”.
+I care about structure, maintainability, and long-term software health — not just “making it work”.
 
 ---
 
